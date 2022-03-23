@@ -1,0 +1,6 @@
+framework module JMNetworkKit {
+  umbrella header "JMNetworkKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

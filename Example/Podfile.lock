@@ -1,0 +1,16 @@
+PODS:
+  - JMNetworkKit (0.1.0)
+
+DEPENDENCIES:
+  - JMNetworkKit (from `../`)
+
+EXTERNAL SOURCES:
+  JMNetworkKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JMNetworkKit: aecc1f06d7f739753b679e2f5441d72630f1ff10
+
+PODFILE CHECKSUM: a9cbab1a898962f8d18887b35d2284e9c19f24a4
+
+COCOAPODS: 1.11.3
